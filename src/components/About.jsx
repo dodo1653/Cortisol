@@ -20,9 +20,9 @@ const About = () => {
   }, [])
 
   const points = [
-    { title: 'Stay Chill', desc: 'Life is too short to stress. Hold $CORTISOL and stay unbothered.' },
-    { title: 'Low Cortisol', desc: 'The ultimate status symbol. When your cortisol is low, you win.' },
-    { title: 'Do Not Spike', desc: 'Do not let the haters get to you. Keep your levels stable.' },
+    { title: 'Meme Culture', desc: 'Born from the viral cortisol spike meme. Built for those who understand the vibe.' },
+    { title: 'Fair Launch', desc: 'No presale. No team tokens. Community-owned from day one.' },
+    { title: 'Utility', desc: 'Dedicated to raising awareness about stress management and mental health.' },
   ]
 
   return (
@@ -39,10 +39,10 @@ const About = () => {
           className="transition-all duration-700 ease-out delay-100 mb-10"
           style={{ opacity: visible ? 1 : 0 }}
         >
-          <h2 className="text-2xl md:text-3xl font-semibold mb-4">The Meme for the Unbothered</h2>
+          <h2 className="text-2xl md:text-3xl font-semibold mb-4">Built Different</h2>
           <p className="max-w-lg" style={{ color: 'rgba(255,255,255,0.6)' }}>
-            In a world of chaos, $CORTISOL reminds us to stay calm. 
-            Low cortisol = better sleep, better skin, better gains.
+            $CORTISOL is more than a meme. It's a movement. 
+            Dedicated to the culture, the vibe, and the future of meme coins.
           </p>
         </div>
 

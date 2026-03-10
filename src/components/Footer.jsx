@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div>
             <p className="font-semibold">$CORTISOL</p>
-            <p className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>Stay chill</p>
+            <p className="text-xs" style={{ color: 'rgba(255,255,255,0.4)' }}>Built on Solana</p>
           </div>
           
           <div className="flex items-center gap-6">
