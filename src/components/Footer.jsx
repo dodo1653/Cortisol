@@ -10,19 +10,19 @@ const Footer = () => {
           
           <div className="flex items-center gap-6">
             <a 
-              href="#"
+              href="https://pump.fun/coin/9AyLH5Puifc7v9MkTgA36JabS4wiVTEZ3aEPeNoTpump"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-xs transition-colors"
+              className="text-xs transition-colors hover:text-[#14b8a6]"
               style={{ color: 'rgba(255,255,255,0.4)' }}
             >
               Pump.fun
             </a>
             <a 
-              href="#"
+              href="https://dexscreener.com/solana/9AyLH5Puifc7v9MkTgA36JabS4wiVTEZ3aEPeNoTpump"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-xs transition-colors"
+              className="text-xs transition-colors hover:text-[#14b8a6]"
               style={{ color: 'rgba(255,255,255,0.4)' }}
             >
               DexScreener

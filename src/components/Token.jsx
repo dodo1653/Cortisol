@@ -5,7 +5,7 @@ const Token = () => {
   const [copied, setCopied] = useState(false)
   const ref = useRef(null)
 
-  const CA = "Coming Soon"
+  const CA = "9AyLH5Puifc7v9MkTgA36JabS4wiVTEZ3aEPeNoTpump"
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -81,7 +81,7 @@ const Token = () => {
             </div>
             <div className="p-4 border" style={{ borderColor: 'rgba(255,255,255,0.08)' }}>
               <p className="label mb-1">Launch</p>
-              <p className="font-medium">TBA</p>
+              <p className="font-medium" style={{ color: '#14b8a6' }}>LIVE</p>
             </div>
             <div className="p-4 border" style={{ borderColor: 'rgba(255,255,255,0.08)' }}>
               <p className="label mb-1">Tax</p>
