@@ -22,7 +22,7 @@ const About = () => {
   const points = [
     { title: 'Stay Chill', desc: 'Life is too short to stress. Hold $CORTISOL and stay unbothered.' },
     { title: 'Low Cortisol', desc: 'The ultimate status symbol. When your cortisol is low, you win.' },
-    { title: 'Don't Spike', desc: 'Don\'t let the haters get to you. Keep your levels stable.' },
+    { title: 'Do Not Spike', desc: 'Do not let the haters get to you. Keep your levels stable.' },
   ]
 
   return (
